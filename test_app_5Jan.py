@@ -17,7 +17,7 @@ from langchain.indexes import VectorstoreIndexCreator
 from langchain.document_loaders import PyPDFLoader
 from langchain.document_loaders import TextLoader
 from langchain.document_loaders import Docx2txtLoader
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 
 st.header("Chat with me 💬 📚")
