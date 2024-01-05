@@ -62,7 +62,7 @@ def process_files():
 if uploaded_files:
     index = process_files()
 else:
-    index = load_data("SOURCE_DOCUMENTS/")
+    index = load_data()
 if prompt := st.chat_input("Your question"): # Prompt for user input and save to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
 
