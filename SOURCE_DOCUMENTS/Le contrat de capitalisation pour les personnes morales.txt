@@ -1,0 +1,94 @@
+Le contrat de capitalisation pour les personnes morales
+
+Veuillez cliquer ici pour plus d'information : 
+https://gestiondepatrimoine.com/financier/contrat-de-capitalisation/fiscalite-pour-les-entreprises.html
+
+Vous cherchez des solutions pour gérer la trésorerie excédentaire de votre entreprise ?
+Plusieurs solutions existent pour réaliser vos objectifs.
+Dans le cadre d’une gestion de trésorerie, les entreprises peuvent souscrire des contrats de capitalisation.
+Qu’elles soient soumises à l’impôt sur le revenu (IR) ou à l’impôt sur les sociétés (IS), les personnes morales peuvent souscrire à ce type de contrat.
+En principe, les personnes morales autorisées à souscrire des contrats de capitalisation sont :
+les organismes de droit privé sans but lucratif (association, fondation…),
+les sociétés qui ont pour activité principale la gestion de leur propre patrimoine mobilier et immobilier.
+Cette solution est particulièrement adaptée si vous détenez une société patrimoniale ou une holding passive qui a pour activité principale la gestion de votre patrimoine.
+Ce placement peut être compliqué pour les sociétés commerciales ou d’exploitation, il existe cependant d’autres solutions pour gérer votre trésorerie excédentaire.
+[display_article_popup type=’funnel’]
+A contrario, cela peut être envisagé au sein d’une SCI qui gère vos biens immobiliers personnels ou ceux de votre entreprise.
+Votre société pourra bénéficier de cette façon de la fiscalité du contrat de capitalisation.
+Contrat de capitalisation et fiscalité des entreprises
+Le principe reste le même que pour les particuliers, mais cela dépend de l’option fiscale que vous avez choisie pour votre entreprise.
+Le calcul de l’impôt sera similaire à votre imposition personnelle (personne physique) si votre société est soumise à l’impôt sur le revenu.
+Si cependant votre société est soumise à l’impôt sur les sociétés (IS), la fiscalité du contrat présente des particularités qu’il faut comprendre.
+Entreprises à l’IR et personnes physiques, même fiscalité
+Si vous avez souscrit à un contrat de capitalisation au travers d’une société soumise à l’impôt sur le revenu (IR), comme une SARL ou une société civile, ces personnes morales sont fiscalement transparentes.
+En d’autres termes, la fiscalité est donc imposée directement à l’impôt sur le revenu au travers de votre déclaration annuelle de revenus.
+Vous devez donc déclarer les revenus de la société au prorata des droits sociaux que vous détenez en tant qu’associé.
+Dans cette situation, la fiscalité du contrat est identique, en cas de rachat, à ceux des contrats d’assurance-vie ou de capitalisation que vous détenez personnellement.
+Les bénéfices du contrat de capitalisation de la société sont alors imposés au moment du rachat des fonds, en fonction de la date de versement des primes.
+Si les primes ont été versées après le 27 septembre 2017
+Un acompte de 12,8 % ou 7,5 % est prélevé l’année du rachat.
+En année N+1, les associés  – personnes physiques – peuvent choisir : 
+le prélèvement forfaitaire unique (PFU) (au taux de 12,8 % ou 7,5 %, selon les cas)
+ou le barème progressif de l’impôt sur le revenu (IR).
+Si les primes ont été versées avant le 27 septembre 2017
+Les associés, personnes physiques, peuvent opter pour le prélèvement forfaitaire libératoire (PFL) (au taux de 35 %, 15 % ou 7,5 %, selon l’antériorité du contrat) l’année du rachat.
+Si les associés, personnes physiques, n’ont pas opté pour le PFL, ils sont imposés en année N+1 au barème progressif de l’impôt sur le revenu.
+Veuillez consulter la rubrique consacrée à la fiscalité des personnes physiques pour de plus amples informations.
+Détermination de la fiscalité spécifique des entreprises à l’impôt sur les sociétés (IS)
+Dans le cadre de la souscription d’un contrat de capitalisation par une société soumise à l’impôt sur les sociétés, votre société sera imposable en fonction du type de contrat :
+un contrat multisupport (plus commun, il est composé de différentes unités de comptes et de fonds euros),
+un contrat monosupport (le contrat est investi sur un seul support et n’a pas vocation à être arbitré).
+Les contrats multisupports
+Pour vos contrats de capitalisation, une taxation forfaitaire est appliquée.
+Cette taxation est indépendante de l’évolution réelle de votre contrat.
+L’imposition du contrat se fait annuellement, y compris en l’absence de rachat.
+L’assiette d’imposition est déterminée en revalorisant votre investissement, à savoir la somme de vos versements diminuée de vos rachats effectués.
+Le taux de revalorisation sera de 105 % du taux moyen d’emprunt d’État (TME) en vigueur au moment de la souscription de votre contrat.
+Exemple : vous avez souscrit un contrat de capitalisation en avril 2019.
+Montant de la souscription : 300 000 €
+Taux moyen d’emprunt d’État (TME) en avril 2019 : 0,35 %
+Calcul de l’assiette annuelle de la taxation forfaitaire : montant de la souscription x (105% x TME de la souscription)
+= 300 000 € (105% x 0,35 %)
+= 300 000 x 0,37
+= 1 102,50 €
+En l’absence de rachat, chaque année, 1 102 € seront donc taxés selon le taux de l’impôt sur les sociétés de l’entreprise.
+À noter : pour les contrats souscrits à un moment où le taux moyen d’emprunt d’État est négatif, aucune taxation annuelle n’est due, en l’absence de rachat.
+Les contrats mono-support
+Pour les contrats monosupport (fonds euros), vos intérêts sont acquis annuellement et donc taxés pour leur montant réel.
+Le taux d’imposition
+Le taux d’imposition est le taux dont bénéficie « normalement » votre personne morale, en fonction de sa nature, son activité, etc.
+Exemple :
+Taux réduit (associations, mutuelles, etc.)
+Taux normal entre 15 et 28 %.
+Réajustement au moment du rachat
+La taxation forfaitaire que vous avez eue chaque année n’est qu’une avance fiscale.
+Lors d’un rachat partiel ou total sur le contrat, la taxation est régularisée en fonction des intérêts que le contrat a réellement générés.
+Selon le montant que votre société a déjà payé et le montant des intérêts réellement générés par le contrat :
+soit un complément d’impôt est dû,
+soit on constate un trop-payé et une régularisation s’opère sur l’impôt l’année du rachat (l’impôt n’est  cependant pas restituable).
+L’avantage de ce mode de calcul
+Durant toute la vie du contrat de capitalisation, une taxation forfaitaire va s’opérer annuellement sur la base du montant de l’investissement.
+Cela vous permettra donc :
+de lisser la fiscalité dans le temps,
+de ne pas être imposé sur les plus-values latentes.
+Avantages et inconvénients du contrat de capitalisation pour les personnes morales
+Avantages
+Placer et faire fructifier la trésorerie de la société
+Pas de taxation des plus-values latentes
+Imposition lissée sur la durée du placement
+Absence de prélèvement social
+Diversification du patrimoine grâce aux nombreux supports (fonds euros, actions, obligations, immobilier, OPCVM etc.)
+Sécuriser les capitaux, si besoin, grâce aux fonds en euros offrant une garantie de capital
+Possibilité d’organiser des retraits en fonction de ses besoins, réguliers ou non
+Disponibilité du capital à tout moment : rachats ou avances possibles
+Gestion simplifiée (gestion sous mandat, une seule ligne comptable)
+Libre organisation des pouvoirs de gestion dans les statuts
+Inconvénients
+Taxation annuelle pendant toute la durée du placement (y compris en l’absence de rachat ou remboursement)
+Placement de moyen / long terme
+Frais d’entrée, de gestion et d’arbitrage (variables selon les établissements et selon les contrats, notamment pour le contrat « haut de gamme »)
+Fonds euros théoriquement réservés aux sociétés patrimoniales et aux holdings non animatrices
+Durée d’investissement minimum de 4 ans sur les fonds euros pour éviter les frais de remboursement anticipé
+Dans certains cas : impossibilité d’appréhender les revenus en l’absence de résultat comptable distribuable
+
+

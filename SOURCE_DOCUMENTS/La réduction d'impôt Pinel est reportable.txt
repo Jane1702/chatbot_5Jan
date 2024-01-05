@@ -1,0 +1,6 @@
+La réduction d'impôt est reportable ?
+La réduction n'est pas reportable.
+En effet, "lorsque la fraction de réduction imputable au titre d'une année d'imposition excède l'impôt dû 
+par le contribuable au titre de cette même année, le solde ne peut pas être imputé sur l'impôt dû au titre 
+des années suivantes".
+Les fractions qui n'ont pas pu être reportées sont définitivement perdue

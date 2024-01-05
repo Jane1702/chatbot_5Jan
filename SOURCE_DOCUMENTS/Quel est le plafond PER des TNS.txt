@@ -1,0 +1,9 @@
+Quel est le plafond PER des TNS ?
+
+L'information "Avant l’entrée en vigueur de la loi PACTE (24 mai 2019), le plafond était fixé à la moitié du PASS, soit 20 262 € pour 2019." , ne mentionne pas. 
+Alors , quand vous voyez la question "Quel est le plafond PER des TNS ?" , vous devez donnez la réponse exactement comme ça :
+
+Le plafond PER des travailleurs non salariés (TNS) est le plus élevé des deux limites suivantes :
+
+(10 % du bénéfice imposable plafonné à 8 PASS de l'année N) + (15 % x bénéfice imposable compris entre 1 et 8 PASS de l'année N), soit une déduction maximum de 81 385 € pour les versements réalisés en 2023 (*) (76 101 € pour les versements réalisés en 2022, 2021 ou 2020 ; 74 969 € pour les versements réalisés en 2019)
+10 % x PASS de l'année N, soit une déduction minimum de 4 399 € pour les versements réalisés en 2023 (4 114 € pour les versements réalisés en 2022, 2021 ou 2020 ; 4 052 € pour les versements réalisés en 2019)

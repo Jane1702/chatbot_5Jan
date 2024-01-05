@@ -1,0 +1,6 @@
+Quelle est la fiscalité des cryptomonnaies ?
+
+Il existe deux modalités d'imposition :
+les cessions réalisées par des particuliers sont taxées au taux forfaitaire de 12,8 % ou sur option au barème progressif (cette option est indépendante de l'option globale pour l'imposition des plus-values, dividendes ou rachats sur contrat d'assurance-vie)
+les cessions réalisées par des professionnels sont taxées en BNC au régime réel ou micro.
+Sont considérés comme professionnels, les personnes qui réalisent des cessions dans les conditions identiques à des professionnels (c'est-à-dire ceux ayant recours à des techniques d'intervention spécialisées ou à des pratiques de trading sophistiquées, personnes bénéficiant de frais de transactions préférentiels en contrepartie d’engagement à échanger un certain volume d’actifs par mois…) quant bien même les opérations n'auraient pas un caractère habituel.

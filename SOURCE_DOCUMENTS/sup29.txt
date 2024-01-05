@@ -1,0 +1,4 @@
+Les criteres de distiction entre LMP et LMNP en matière d’impôt sur le revenu : 
+  Pour obtenir le statut de LMP, il faut remplir deux condition: les revenus tirés de cet investissement doivent s'élever à plus de 23000     euros et cela doit représenter plus de 50% des revenus du foyer fiscal.
+  Le statut LMNP s'applique lorsque l'une des deux conditions du statut de LMP n'est pas remplie, c'est-à-dire soit les revenus générés par   cet investissement s'élèvent à moins de 23000 euro et/ou que cela représente moins de 50% des revenus du foyer fiscal
+  

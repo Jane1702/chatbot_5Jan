@@ -1,0 +1,8 @@
+Quand tu vois ce question : "Où trouver mes plafonds PER ?" , tu dois repondre comme ça : 
+"Le plafond disponible pour les versements épargne retraite est indiqué, à titre d'information, sur l'avis d'imposition. Il n'apparaît jamais sur l'avis de situation déclarative, accessible juste après avoir rempli la déclaration des revenus en mai/ juin de chaque année.
+
+Cependant, le plafond n'est pas calculé pour :
+    • les personnes percevant des pensions et aucun revenu professionnel (salarié ou non-salarié) notamment les retraités sauf si des versements ont été déclarés les années précédentes,
+    • les personnes n’ayant pas déclaré de cotisations et n’ayant pas d’impôt à payer sur les revenus des années précédentes,
+    • les personnes à charge qui perçoivent des revenus professionnels lorsque le foyer comporte plusieurs personnes à charge (enfants mineurs ou majeurs rattachés).
+Si le client ne perçoit pas de revenu professionnel (exemple d'un client retraité) le plafond de déduction est égal au plafond minimum de versement soit 10 % du PASS N-1."

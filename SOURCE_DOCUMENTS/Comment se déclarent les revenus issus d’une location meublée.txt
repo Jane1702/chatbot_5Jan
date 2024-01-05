@@ -1,0 +1,112 @@
+Comment se déclarent les revenus issus d’une location meublée ?
+
+
+Veuillez cliquer ici pour plus d'information : 
+
+https://gestiondepatrimoine.com/immobilier/location-meublee/declarer-revenus-location-meublee.html
+
+
+Les revenus issus d’une location meublée sont imposés dans la catégorie des BIC selon le régime micro-BIC ou le régime du bénéfice réel.
+Rappel de l’imposition sur la location meublée
+
+Le statut de loueur en meublé est un statut juridique et fiscal rattaché à la personne et non au bien.
+
+Ce statut bénéficie d’une législation plus souple applicable au bail et d’un environnement fiscal privilégié, ce qui attire de plus en plus les investisseurs.
+
+La location meublée peut concerner la location de résidences d’habitation (à titre principal ou secondaire) mais aussi les résidences de services (EHPAD, seniors, étudiants, tourisme, affaires).
+
+Cette location étant de plus en plus courante, il convient de rappeler que les revenus de cette activité sont imposables.
+
+Quelle est alors la fiscalité de la location meublée ?
+
+Les revenus issus de la location meublée sont imposés dans la catégorie des bénéfices industriels et commerciaux (sur la déclaration n°2042-C-PRO et/ou la déclaration n° 2031-SD).
+Déclarer les revenus d’une activité de LMNP
+
+Un loueur en meublé non professionnel peut bénéficier de deux régimes d’imposition en fonction du montant des recettes locatives : soit le régime forfaitaire, soit le régime réel.
+
+Attention, toutefois, si les revenus excèdent 23 000 € par an et correspondent à plus de 50 % des revenus professionnels du foyer fiscal concerné, le statut de loueur en meublé professionnel s’impose.
+
+Auparavant, un enregistrement au Registre du Commerce et des Sociétés était nécessaire ; avec la Loi de Finances 2020, cela n’est plus impératif.
+Régime forfaitaire (micro-BIC)
+
+Lorsque les recettes locatives ne dépassent pas 72.500 € (ou 176.200 € pour les locations portant sur un gîte rural, un meublé de tourisme ou une chambre d’hôte), elles sont imposables d’office selon la méthode forfaitaire.
+
+Cependant, le loueur non professionnel peut opter pour le régime réel, notamment si le montant de ses charges dépasse 50 % des recettes imposables.
+
+Cette option doit intervenir avant le 1er février de l’année au titre de laquelle les revenus seront soumis au régime réel.
+
+Le régime du micro-BIC consiste à fixer forfaitairement le montant des charges déductibles via un abattement de 50 % sur les revenus déclarés.
+
+Ainsi, lorsque le régime d’imposition applicable est celui du micro-BIC, le loueur doit déclarer le montant de ses recettes dans la catégorie « revenus des locations meublées non professionnelles » (à la ligne 5ND) de la déclaration n°2042-C-PRO.
+
+L’administration fiscale appliquera, par la suite, l’abattement de 50 % sur le montant déclaré.
+
+S’agissant de la TVA, le loueur en meublé n’a pas à la payer, sauf bail commercial à un exploitant hôtelier.
+Régime réel
+
+Le loueur en meublé est soumis automatiquement au régime réel lorsque les revenus issus de la location meublée dépassent les limites d’application du régime micro-BIC ou lorsque le loueur a opté pour le régime réel.
+
+Dans le cas du régime d’imposition réel, le loueur doit déclarer le montant de ses recettes sur la déclaration n° 2031 – SD et le reporter sur la déclaration n° 2042-C-PRO dans la catégorie « revenus des locations meublées non professionnelles ».
+
+Il peut également déduire l’ensemble de ses charges (factures d’entretien et de réparation, taxe foncière, frais d’assurance, frais de gestion, etc.) pour leur montant exact en les portant sur les mêmes déclarations.
+
+Par ailleurs, le régime réel simplifié permet d’optimiser la fiscalité de la location meublée grâce à la déduction des amortissements concernant les locaux, le matériel et le mobilier.
+
+Comptablement, l’amortissement correspond à la prise en compte de la perte de valeur d’un bien du fait du temps et de son usage, constatée chaque année.
+
+Mais, fiscalement, la déduction de l’amortissement est limitée.
+
+En effet, la quote-part d’amortissement déductible ne peut pas dépasser le montant égal à la différence entre le total des loyers et les autres charges payées dans l’intérêt de l’activité, ce qui signifie que l’amortissement ne peut pas créer ou accroître un déficit.
+
+Le bénéfice taxable correspond donc à la différence entre les recettes annuelles et les charges et amortissements déductibles.
+
+Pour rappel, le loueur en meublé n’a pas à payer la TVA lorsqu’il est sous le régime réel sauf s’il réalise plusieurs prestations para-hôtelières et que ses recettes dépassent 176.200 €.
+
+Il devra, dans ce cas, facturer de la TVA mais il pourra aussi déduire la TVA payée sur ses achats et frais.
+Déclarer les revenus d’une activité de LMP
+
+Lorsque les biens meublés sont donnés en location par un professionnel (LMP), les revenus sont imposés de la même manière que pour le loueur en meublé non professionnel (selon le régime forfaitaire ou réel).
+
+Seulement, les déclarations des sommes perçues devront être faites dans la catégorie « revenus industriels et commerciaux professionnels » de la déclaration n° 2042-C-PRO.
+
+Pour autant, la fiscalité du LMP n’est pas totalement identique à celle du LMNP.
+
+En effet, le statut de loueur en meublé professionnel permet de bénéficier de trois avantages importants qui ne sont pas applicables au loueur en meublé non professionnel.
+
+Ces avantages concernent l’imputation des déficits, les plus-values et l’impôt sur la fortune immobilière (IFI).
+L’imputation des déficits
+
+Contrairement au LMNP, qui ne peut déduire son déficit constaté au titre de l’activité de location meublée que sur les revenus de ses locations meublées, le loueur en meublé professionnel peut le reporter pendant 6 ans sur le revenu fiscal global.
+
+Le déficit est donc imputable sur les autres revenus tels que les salaires, les pensions, etc., et ce sans limitation de montant.
+Les plus-values professionnelles
+
+En cas de plus-value lors de la cession d’un bien loué, celle-ci ne sera pas imposée selon le régime des plus-values privées comme c’est le cas pour le LMNP mais selon le régime des plus-values professionnelles.
+
+Le LMP bénéficiera donc de la fiscalité avantageuse de ce régime d’imposition des plus-values.
+
+Les plus-values de cession d’un loueur en meublé professionnel sont exonérées :
+
+    partiellement si l’activité est exercée depuis plus de 5 ans et si ses recettes sont comprises entre 90 000 € et 126 000 € ;
+    totalement si l’activité est exercée depuis plus de 5 ans et si ses recettes ne dépassent pas 90.000 €.
+
+Si l’une de ces conditions n’est pas satisfaite, les plus-values seront alors soumises au régime des plus et moins-values professionnelles à court ou long terme.
+L’Impôt sur la fortune immobilière (IFI depuis le 1er janvier 2018)
+
+Les biens immobiliers qui entraient dans l’assiette de l’ISF et sont compris dans l’assiette de l’IFI depuis le 1er janvier 2018.
+
+Néanmoins, les biens nécessaires à une activité professionnelle sont exonérés d’impôt, s’ils ont un lien direct avec l’exploitation et s’ils sont utilisés effectivement et exclusivement pour les besoins d’une activité industrielle, commerciale, artisanale, agricole ou libérale.
+
+Dans le cadre du statut de LMP, les biens loués sont considérés comme des biens professionnels si le loueur remplit des conditions spécifiques, différentes de celles applicables en matière d’impôt sur le revenu.
+
+Il faut donc que :
+
+    les revenus nets de location meublée soient supérieurs aux autres revenus professionnels, la notion de revenus nets à prendre en compte étant différente du critère utilisé en matière d’impôt sur le revenu qui est celui des recettes brutes ;
+    les loyers issus de la location meublée soient supérieurs à 23.000 € TTC par an.
+
+Pour rappel, depuis le 1er janvier 2020, la condition de l’enregistrement au Registre du Commerce et des Sociétés en tant que loueur professionnel n’est plus impérative.
+
+Par conséquent, si ces conditions sont remplies, les biens loués n’entrent pas dans le champ d’application de l’IFI.
+
+
+

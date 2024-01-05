@@ -1,0 +1,77 @@
+La fiscalité du contrat de capitalisation : IR, succession, IFI
+
+Veuillez cliquer ici pour plus d'information :
+https://gestiondepatrimoine.com/financier/contrat-de-capitalisation/la-fiscalite-appliquee-aux-personnes-physiques.html
+
+l est nécessaire de faire un point sur la fiscalité du contrat de capitalisation, tant en termes d’impôt sur le revenu lors de rachat ou de rente, de succession et de donation, que d’IFI.
+Impôt sur le revenu
+En fonction du choix de dénouement du contrat, rachat classique ou rente, la fiscalité appliquée va diverger.
+Celle-ci pourra servir de caractéristique pour faire son choix.
+La fiscalité des rachats permet de classer le contrat de capitalisation dans la catégorie des produits financiers à moyen/long terme.
+Cet article vous explique pourquoi mais surtout comment est taxé ce contrat.
+En cas de rachat
+Le principe
+Nous traitons ici de la fiscalité des contrats de capitalisation souscrits à compter du 1er janvier 1998.
+Concernant les rachats, elle est identique à la fiscalité du contrat d’assurance vie.
+L’action de rachat permet au souscripteur de récupérer tout (rachat total) ou partie (rachat partiel) du capital cumulé sur le contrat.
+L’épargne ainsi obtenue comporte pour une part le capital investi et d’autre part les intérêts générés. Seule la part d’intérêts sera soumise à l’imposition sur les revenus.
+Le régime d’imposition s’applique en fonction de la date de souscription du contrat et de la durée de détention.
+Les produits afférents à des versements antérieurs au 27 septembre 2017 sont imposés au prélèvement forfaitaire libératoire de 35 %, 15 % ou 7,5 % si les retraits sont respectivement effectués dans les 4 ans, 8 ans ou après les 8 ans du contrat.
+En revanche, les produits des primes versées à compter du 27 septembre 2017 font l’objet de règles d’impositions complexes. Trois situations sont à distinguer :
+Si le total des primes nettes versées par l’épargnant est inférieur à 150 000 € : le taux d’imposition de ces produits est de 12,8 % ou 7,5 % + 17,2 % en fonction de l’antériorité des versements des primes.
+Si le total des primes nettes versées par l’épargnant est supérieur à 150.000 € et que le contrat a moins de 8 ans : le taux d’imposition est de 12,8 % + 17,2 %.
+Si le total des primes nettes versées par l’épargnant est supérieur à 150.000 € et que le contrat a plus de 8 ans : le taux d’imposition est de 7,5 % + 17,2 % pour la fraction des produits afférents aux primes n’excédant pas 150.000 € versées à compter du 27 septembre 2017 et de 12,8 % +17,2 % au-delà.
+Toutefois, les contribuables ont la possibilité d’opter pour l’imposition selon le barème progressif de l’IR.
+Il s’agit d’une option globale qui concerne l’ensemble des revenus de capitaux mobiliers perçus dans l’année d’imposition.
+Cette alternative peut s’avérer avantageuse pour les contribuables ayant une tranche marginale d’imposition assez faible.
+Les rachats effectués après 8 ans bénéficient des abattements suivants :
+4 600 € pour une personne seule ;
+9.600 € pour un couple.
+Veuillez cliquer ici pour plus d'information :
+https://gestiondepatrimoine.com/financier/contrat-de-capitalisation/la-fiscalite-appliquee-aux-personnes-physiques.html
+L’assiette d’imposition en cas de rachats partiels
+Lors d’un rachat partiel, il est nécessaire de déterminer la part d’intérêts comprise dans le montant racheté qui sera déterminé de manière proportionnelle par rapport aux versements totaux effectués depuis la création du contrat.
+Le calcul est le suivant :
+Montant du rachat partiel – ([total des primes versées à la date du rachat x Montant du rachat] / Valeur de rachat totale à la date du rachat)
+Les prélèvements sociaux pour les rachats
+Les produits (intérêts) provenant d’un contrat de capitalisation sont des bénéfices de placement.
+Ils sont donc soumis aux contributions sociales de 17,2 % incluant 6,8 % de CSG déductible.
+Attention, la déductibilité de la CSG est conditionnée à une option au barème de l’impôt, si le souscripteur opte pour le PFL ou le PFU, il ne pourra pas bénéficier de la déduction.
+Les rachats exonérés d’impôt sur le revenu
+Il existe quelques cas d’exonérations, lorsque le souscripteur ou son conjoint se trouve dans une situation particulière :
+mise en retraite anticipée
+invalidité de 2ème ou 3ème catégorie
+licenciement
+fin de CDD
+liquidation judiciaire
+Pour bénéficier de l’exonération de l’impôt, le souscripteur doit faire le rachat avant la fin de l’année de la réalisation de l’événement.
+En ce qui concerne l’exonération de prélèvements sociaux, l’instruction du 28 décembre 2007 a modifié le procédé, seule une invalidité de 2ème ou 3ème catégorie survenue au cours de l’année permet d’en bénéficier.
+La fiscalité d’une rente issue d’un contrat de capitalisation
+Si le souscripteur choisit de transformer le capital en rente, la fiscalité à appliquer sera différente de celle d’un rachat classique.
+Le principe de base
+Lors de l’aliénation du capital il n’y aura pas de fiscalité pour le souscripteur.
+Les intérêts acquis seront exonérés d’impôt sur le revenu et de prélèvements sociaux. Mais la rente qui sera touchée par le bénéficiaire sera partiellement imposable.
+La fraction imposable de la rente dépend de l’âge du bénéficiaire de la rente.
+Veuillez cliquer ici pour plus d'information :
+https://gestiondepatrimoine.com/financier/contrat-de-capitalisation/la-fiscalite-appliquee-aux-personnes-physiques.html
+
+Par exemple, si le rentier a moins de 50 ans et qu’il touche 10 000 € de rente par an, la part imposable de la rente sera de 7 000 € (0,7 * 10 000).
+Quelques compléments à savoir
+Attention, quelques précisions viennent s’ajouter au principe de fiscalité de la rente.
+La rente viagère est assimilée à une mutation à titre onéreux (car aliénation du capital), le bénéficiaire n’aura donc pas droit à l’abattement de 10 % des pensions et rentes, et devra supporter les prélèvements sociaux de 17,2 %.
+La fraction imposable de la rente est définie lors de la liquidation, elle ne varie pas par la suite en fonction de l’âge du rentier. Le tableau ne sert donc qu’une seule fois pour déterminer la fiscalité à appliquer tout au long de la perception de la rente.
+Si le bénéficiaire a opté pour une rente viagère avec réversion au conjoint survivant, c’est l’âge du plus âgé des deux qui est retenu pour connaître la part imposable de la rente. Par contre, lors du décès du premier bénéficiaire, le conjoint survivant aura le choix entre garder le taux initial ou changer en fonction de son âge actuel.
+Contrat de capitalisation, succession et donation
+Au décès du souscripteur, l’épargne atteinte entrera dans la succession et reviendra aux héritiers du souscripteur.
+Les héritiers auront donc à payer uniquement les droits de mutation à titre gratuit.
+La base de calcul des droits à prendre en compte sera la valeur de rachat du contrat au jour du décès.
+Ainsi, selon la personne qui va bénéficier du contrat, les droits varient :
+le conjoint survivant est totalement exonéré de droits de succession
+les enfants bénéficieront d’un abattement de 100.000 €,
+en cas de démembrement, la valeur de l’usufruit et la valeur de la nue-propriété seront déterminées par l’âge de l’usufruitier,
+…
+Contrat de capitalisation et IFI
+En principe, les bons et contrats de capitalisation sont exclus de l’assiette de l’IFI car ce sont des actifs financiers et non des actifs immobiliers.
+Cependant, les contrats rachetables et bons investis en unités de comptes sont imposables à l’IFI pour la fraction représentative des biens et droits réels immobiliers (SCPI par exemple).
+Ce qu’il faut retenir
+Le contrat de capitalisation est une solution particulière répondant à des objectifs précis, et peut être un outil intéressant dans une stratégie patrimoniale d’ensemble notamment pour répondre à des problématiques fiscales (IFI, transmission…). Il est nécessaire de s’entourer de professionnels pour utiliser cet outil à bon escient.

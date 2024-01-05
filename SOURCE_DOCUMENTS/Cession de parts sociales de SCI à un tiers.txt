@@ -1,0 +1,95 @@
+Cession de parts sociales de SCI à un tiers
+
+
+Veuillez cliquer ici pour plus d'information :
+
+https://gestiondepatrimoine.com/immobilier/sci/cession-de-parts-sociales-sci-a-un-tiers.html
+
+
+1. Actes à rédiger
+
+    Promesse de cession de parts sociales (éventuellement)
+    Lettre de demande d’agrément
+    Convocation de l’Assemblée Générale Extraordinaire (AGE) en vue de se prononcer sur l’agrément
+    Tenue de l’AGE (si les statuts ne s’y opposent pas, le cédant peut participer au vote)
+    Procès-verbal de l’AGE
+    Lettre notifiant à l’associé l’agrément du cessionnaire
+    Acte de cession de parts sociales
+    Modification des statuts
+
+2. Pour la publicité
+
+Pour l’opposabilité à la société :
+
+    Signification de l’acte de cession par huissier à la SCI ou acceptation dans un acte authentique
+    ou, si les statuts le prévoient, transfert sur les registres de la société.
+
+Pour l’opposabilité aux tiers :
+
+    Dépôt au greffe du tribunal de commerce compétent : original de l’acte de cession.
+
+Suite à un changement d’associé, il y a dépôt au CFE ou directement au greffe du tribunal de commerce :
+
+    Exemplaire des délibérations / décisions entraînant la modification des statuts
+    Statuts modifiés
+
+3. Régime fiscal
+
+    Pour le cédant : si plus-value immobilière : dépôt d’une 2048-M-SD.
+    Pour le cessionnaire : droit d’enregistrement de 5 % : dépôt de l’acte sous seing privé en double exemplaire au service des impôts compétent.
+
+Forme de l’acte de cession
+
+Les parties peuvent décider de ne pas conclure immédiatement une cession de parts sociales définitive, et se contenter d’une simple promesse de vente ou d’achat.
+
+La rédaction d’une promesse n’est cependant pas obligatoire et les parties peuvent rédiger directement l’acte de cession (après avoir néanmoins obtenu l’agrément nécessaire).
+
+    Les parties ont la possibilité de choisir entre un acte sous seing privé et un acte notarié (article 1865 Code civil). L’acte notarié sera obligatoire s’il s’agit d’une cession réalisée à l’étranger et portant sur les titres d’une société française ou étrangère dont l’actif est principalement constitué d’immeubles ou de droits immobiliers situés en France.
+    Si les parties optent pour un acte sous seing privé, il devra être dressé en autant d’exemplaires qu’il y a de parties. Il faudra également prévoir un exemplaire pour l’enregistrement et un autre pour le dépôt au greffe.
+
+Publicité de la cession
+
+L’acte de cession valablement conclu entre les parties et produisant tout effet entre elles demeure néanmoins inopposable à la société et aux tiers tant que les formalités de publicité n’ont pas été accomplies.
+Opposabilité à la société
+
+    En principe, les cessions de parts ne sont opposables à la société qu’après accomplissement des formalités prévues par l’article 1690 du Code civil, à savoir signification par huissier ou acceptation de la société dans un acte authentique (C. civil art. 1865, al. 1).
+    Si les statuts le prévoient, l’opposabilité à la société peut néanmoins résulter d’un « transfert » sur les registres de la société.
+    Il s’agit d’un registre, tenu au siège de la société, constitué de feuillets identiques utilisés sur une seule face et classés dans l’ordre chronologique de leur établissement.
+
+Opposabilité aux tiers
+
+À défaut d’accomplissement des formalités suivantes, la cession reste inopposable aux tiers qui peuvent continuer de considérer le cédant comme propriétaire des parts sociales. Dans une telle hypothèse, le cédant resterait tenu des dettes sociales.
+
+    La société doit déposer au greffe du tribunal de commerce une copie authentique de l’acte, s’il est notarié ou, un original s’il est sous seing privé.
+    Dans l’hypothèse où l’acte n’aurait pas été déposé au greffe, la cession est tout de même opposable aux tiers dès lors que les statuts mis à jour constatant cette cession ont été publiés.
+    De plus, lors d’une cession de parts à un tiers, la cession entraînant l’entrée d’un nouvel associé et une éventuelle sortie d’un associé, il est nécessaire de modifier les statuts.
+    La société doit déposer une demande d’inscription modificative au CFE (ou directement au greffe du tribunal de commerce compétent) pour faire inscrire le changement d’associé au RCS. Le dossier comporte : 
+
+    un exemplaire des statuts modifiés,
+    un exemplaire de la décision ayant entraîné cette modification.
+
+Régime fiscal de la cession
+
+La cession de parts sociales entraîne des conséquences fiscales, à la fois pour le cessionnaire, et pour le cédant.
+Pour le cessionnaire, droits d’enregistrement
+
+    Les cessions de parts de SCI sont obligatoirement soumises à la formalité de l’enregistrement, devant intervenir dans le délai d’un mois à compter de la date de l’acte de cession.
+    L’enregistrement se fait auprès du service des impôts du domicile de l’une des parties si l’acte est sous seing privé, ou de la résidence du notaire en cas d’acte notarié.
+    Les cessions de parts de SCI sont soumises à un droit d’enregistrement de 5% applicable sur la valeur des parts acquises (valeur réelle des biens et droits immobiliers détenus par la société, après déduction du passif inhérent à leur acquisition).
+    Si la cession a été constatée par acte sous seing privé, l’enregistrement se fait par le dépôt de l’acte en double exemplaire : 
+
+    un exemplaire sera conservé par le service des impôts,
+    le second exemplaire, comportant la mention de l’enregistrement, sera restitué à l’intéressé.
+
+    Si les parties n’ont pas rédigé d’acte de cession, la cession devra faire l’objet d’une déclaration, formulaire n°2759 dans le mois de sa date. La déclaration est souscrite et les droits sont acquittés au service des impôts dont dépend le domicile de l’une des parties contractantes.
+
+Pour le cédant, plus-value immobilière éventuelle
+
+Il est possible que la cession de ses parts engendre une plus-value immobilière au profit du cédant.
+
+    Lorsque la cession des parts d’une SCI est réalisée par un particulier et que la société n’est pas soumise à l’impôt sur les sociétés, le régime d’imposition de la plus-value est celui prévu pour les immeubles. Le cédant devra déclarer sa plus-value sur un formulaire n°2048-M-SD.
+    Les plus-values de cession de parts de SCI sont soumises à l’impôt sur le revenu au taux de 19 %, et aux prélèvements sociaux au taux global d’imposition de 17,2 % ; après application des abattements respectifs pour durée de détention.
+    Si le montant de la plus-value excède 50 000 euros, elle sera également soumise à une surtaxe.
+
+
+
